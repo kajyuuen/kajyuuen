@@ -7,4 +7,5 @@
 
 <!-- ### Koga Kobayashi, @kajyuuen -->
 
-Profile: https://kajyuuen.github.io/
+- Profile: https://kajyuuen.github.io/
+- Scrapbox: https://scrapbox.io/kajyuuen-open/
