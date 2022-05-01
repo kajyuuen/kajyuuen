@@ -7,4 +7,4 @@
 
 <!-- ### Koga Kobayashi, @kajyuuen -->
 
-Profile: https://www.kajyuuen.com/about
+Profile: https://www.kajyuuen.com
